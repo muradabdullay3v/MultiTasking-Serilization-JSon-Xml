@@ -1,0 +1,17 @@
+F:\VS pr\HomeTask2240\HomeTask2240\bin\Debug\net6.0\HomeTask2240.exe
+F:\VS pr\HomeTask2240\HomeTask2240\bin\Debug\net6.0\HomeTask2240.deps.json
+F:\VS pr\HomeTask2240\HomeTask2240\bin\Debug\net6.0\HomeTask2240.runtimeconfig.json
+F:\VS pr\HomeTask2240\HomeTask2240\bin\Debug\net6.0\HomeTask2240.dll
+F:\VS pr\HomeTask2240\HomeTask2240\bin\Debug\net6.0\HomeTask2240.pdb
+F:\VS pr\HomeTask2240\HomeTask2240\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\VS pr\HomeTask2240\HomeTask2240\obj\Debug\net6.0\HomeTask2240.csproj.AssemblyReference.cache
+F:\VS pr\HomeTask2240\HomeTask2240\obj\Debug\net6.0\HomeTask2240.GeneratedMSBuildEditorConfig.editorconfig
+F:\VS pr\HomeTask2240\HomeTask2240\obj\Debug\net6.0\HomeTask2240.AssemblyInfoInputs.cache
+F:\VS pr\HomeTask2240\HomeTask2240\obj\Debug\net6.0\HomeTask2240.AssemblyInfo.cs
+F:\VS pr\HomeTask2240\HomeTask2240\obj\Debug\net6.0\HomeTask2240.csproj.CoreCompileInputs.cache
+F:\VS pr\HomeTask2240\HomeTask2240\obj\Debug\net6.0\HomeTask2240.csproj.CopyComplete
+F:\VS pr\HomeTask2240\HomeTask2240\obj\Debug\net6.0\HomeTask2240.dll
+F:\VS pr\HomeTask2240\HomeTask2240\obj\Debug\net6.0\refint\HomeTask2240.dll
+F:\VS pr\HomeTask2240\HomeTask2240\obj\Debug\net6.0\HomeTask2240.pdb
+F:\VS pr\HomeTask2240\HomeTask2240\obj\Debug\net6.0\HomeTask2240.genruntimeconfig.cache
+F:\VS pr\HomeTask2240\HomeTask2240\obj\Debug\net6.0\ref\HomeTask2240.dll
